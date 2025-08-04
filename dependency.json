@@ -1,5 +1,6 @@
 {
     "include": {
-        "spryker/product-offer-sales": "Added for forward compatibility."
+        "spryker/product-offer-sales": "Added for forward compatibility.",
+        "spryker/transfer": "Required to use merging strategy as default for descriptions."
     }
 }
