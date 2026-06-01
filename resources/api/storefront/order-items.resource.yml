@@ -1,0 +1,13 @@
+resource:
+    name: OrderItems
+    shortName: order-items
+
+    properties:
+        productOfferReference:
+            type: string
+            nullable: true
+            readable: true
+            writable: false
+            description: 'A unique reference identifier for the product offer from a merchant.'
+            openapiContext:
+                example: 'offer89'
